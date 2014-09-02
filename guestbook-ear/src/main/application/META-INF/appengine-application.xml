@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<appengine-application xmlns="http://appengine.google.com/ns/1.0">
+  <application>s~molly-123</application>
+<inbound-services>
+  <service>mail_bounce</service>
+</inbound-services>
+</appengine-application>
